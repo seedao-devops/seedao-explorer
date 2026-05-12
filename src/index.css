@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* SeeDAO brand palette */
+:root {
+  --seedao-purple: #7c3aed;
+  --seedao-purple-light: #a78bfa;
+  --seedao-emerald: #059669;
+  --seedao-amber: #d97706;
+}
+
+body {
+  min-height: 100vh;
+}
